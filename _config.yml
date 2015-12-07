@@ -1,0 +1,10 @@
+# Site settings
+title: Vaccines
+logo: logo.png
+description: >
+  This site is an attempt to gather information about vaccines.
+baseurl: "/vaccines" # the subpath of your site, e.g. /blog/
+url: "http://www.iffycan.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
