@@ -6,7 +6,7 @@ permalink: /schedule/
 
 # U.S. Centers for Disease Control and Prevention
 
-[Recommendations from the CDC](http://www.cdc.gov/vaccines/parents/downloads/parent-ver-sch-0-6yrs.pdf) are summarized follows:
+[Recommendations from the CDC](http://www.cdc.gov/vaccines/parents/downloads/parent-ver-sch-0-6yrs.pdf) are summarized as follows:
 
 | Vaccine | Diseases | When |
 |---|---|---|
