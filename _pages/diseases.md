@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Diseases
-permalink: /diseases/
 ---
 
 Listed are some diseases with known vaccines:
