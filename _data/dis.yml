@@ -1,0 +1,16 @@
+- name: diphtheria
+- name: chickenpox
+- name: hib
+  aka: Haemophilus influenzae type b
+- name: hepatitis a
+- name: hepatitis b
+- name: influenza
+- name: measles
+- name: mumps
+- name: pertussis
+  aka: whooping cough
+- name: pneumococcus
+- name: polio
+- name: rotavirus
+- name: rubella
+- name: tetanus

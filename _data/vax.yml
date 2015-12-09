@@ -1,0 +1,75 @@
+- name: HepB
+  diseases:
+  - hepatitis B
+  schedule:
+  - Birth
+  - 1-2 mo
+  - 6-18 mo
+- name: RV
+  diseases:
+  - rotavirus
+  schedule:
+  - 2 mo
+  - 4 mo
+  - 6 mo
+- name: DTaP
+  diseases:
+  - diphtheria
+  - pertussis
+  - tetanus
+  schedule:
+  - 2 mo
+  - 4 mo
+  - 6 mo
+  - 15-18 mo
+  - 4-6 yr
+- name: Hib
+  diseases:
+  - Hib
+  schedule:
+  - 2 mo
+  - 4 mo
+  - 6 mo
+  - 12-15 mo
+- name: PCV
+  diseases:
+  - pneumococcus
+  schedule:
+  - 2 mo
+  - 4 mo
+  - 6 mo
+  - 12-15 mo
+- name: IPV
+  diseases:
+  - polio
+  schedule:
+  - 2 mo
+  - 4 mo
+  - 6-18 mo
+  - 4-6 yr
+- name: Influenza
+  diseases:
+  - influenza
+  schedule:
+  - 6+ mo
+  - two doses annually
+- name: MMR
+  diseases:
+  - measles
+  - mumps
+  - rubella
+  schedule:
+  - 12-15 mo
+  - 4-6 yr
+- name: Varicella
+  diseases:
+  - chickenpox
+  schedule:
+  - 12-15 mo
+  - 4-6 yr
+- name: HepA
+  diseases:
+  - hepatitis A
+  schedule:
+  - 12-23 mo
+  - 6-18mo later
