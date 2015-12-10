@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Schedule
+permalink: /schedule/
 ---
 
 # U.S. Centers for Disease Control and Prevention
